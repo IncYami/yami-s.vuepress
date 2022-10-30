@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Yami Studio',
-  description: '',
+  description: 'YAMI BEST WAIFU 💜',
   base: '/',
   dest: 'dist/',
   head: [
