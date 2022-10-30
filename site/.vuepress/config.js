@@ -5,7 +5,7 @@ module.exports = {
   dest: 'dist/',
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
-    ['meta', { property: 'og:image', content: 'backgroundImage' }],
+//    ['meta', { property: 'og:image', content: 'backgroundImage' }],
     ['meta', { name: 'theme-color', content: '#7c02b8' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
