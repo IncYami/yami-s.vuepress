@@ -27,7 +27,7 @@ module.exports = {
 //  theme: 'ououe',
   theme: require.resolve('../../ououe-mod/'),
   themeConfig: {
-    cover: 'cover.png',//https://getwallpapers.com/wallpaper/full/e/2/e/856433-most-popular-to-love-ru-konjiki-no-yami-wallpaper-1920x1200.jpg',
+    cover: '/cover.png',//https://getwallpapers.com/wallpaper/full/e/2/e/856433-most-popular-to-love-ru-konjiki-no-yami-wallpaper-1920x1200.jpg',
     logo: '/logo.png',
     backgroundImage: true,
     nav: [
