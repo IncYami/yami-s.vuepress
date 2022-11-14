@@ -5,9 +5,7 @@ layout: Page
 
 ## Andamento:
 
-> - Kanata no Astra
->
-> BD
+
 
 ## Planejado:
 
