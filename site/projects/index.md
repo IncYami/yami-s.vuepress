@@ -3,8 +3,6 @@ title: Projetos
 layout: Page
 ---
 
-[![Anitsu](/img/Anitsu.webp)](https://anitsu.moe/)
-# [AnitsuCloud](https://cloud.anitsu.moe/nextcloud/s/nLTADkCq8Zrwmeb)
 # [YamiCloud](https://cloud.yami-s.com/0:/)
 
 > ## Black Bullet
@@ -47,6 +45,12 @@ layout: Page
 > VCB-Studio
 > - Codec:
 > BDRIP HEVC 10Bits 1080p FLAC
+
+> ## Kanata no Astra
+> - RAW:
+> Owlolf
+> - Codec:
+> BDRIP AVC 10Bits 1080p FLAC
 
 > ## Kimi no Na wa. -Your Name.-
 > - RAW:
