@@ -56,7 +56,7 @@ filter blur(3px)
   right 0
   width 100%
   height 100%
-  background-size .cover
+  background-size cover
   background-position center
   .cover-title
     width 100%
