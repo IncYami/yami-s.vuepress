@@ -45,6 +45,9 @@ export default {
 </script>
 
 <style lang="stylus" scoped>
+.cover
+background-size cover
+filter blur(3px)
 .header-cover
   position absolute
   top 0
@@ -53,7 +56,7 @@ export default {
   right 0
   width 100%
   height 100%
-  background-size cover
+  background-size .cover
   background-position center
   .cover-title
     width 100%
@@ -67,7 +70,6 @@ export default {
       font-size 4rem
       color $whiteColor
       overflow-wrap break-word
-      background-color lightblue
   .cover-text
     margin-top .5rem
     font-size 1.2rem
