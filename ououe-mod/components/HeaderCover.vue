@@ -53,26 +53,22 @@ export default {
   right 0
   width 100%
   height 100%
-  filter blur(3px)
   background-size cover
   background-position center
+  backdrop-filter blur(5px)
   .cover-title
-    filter blur(0px)
     width 100%
     text-align center
     .title-img
-      filter blur(0px)
       max-width 100%
       max-height ($coverHeight / 5)
     .title-text
-      filter blur(0px)
       max-width 100%
       max-height: ($coverHeight / 5)
       font-size 4rem
       color $whiteColor
       overflow-wrap break-word
   .cover-text
-    filter blur(0px)
     margin-top .5rem
     font-size 1.2rem
     color $whiteColor
