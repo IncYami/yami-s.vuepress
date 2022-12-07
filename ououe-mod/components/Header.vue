@@ -99,5 +99,6 @@ export default {
   height $coverHeight
 @media print
   .header
+    filter blur(0px)
     display none
 </style>
