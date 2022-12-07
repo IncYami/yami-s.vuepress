@@ -55,7 +55,6 @@ export default {
   height 100%
   background-size cover
   background-position center
-  backdrop-filter blur(5px)
   .cover-title
     width 100%
     text-align center
