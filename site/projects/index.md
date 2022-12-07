@@ -96,9 +96,9 @@ layout: Page
 > ## Overlord IV
 > ## Overlord ~Ple Ple Pleiades~
 > - RAW:
-> ReinForce
+> sam
 > - Codec:
-> BDRIP AVC 8Bits 1080p FLAC
+> BDRIP HEVC 10Bits 1080p FLAC
 
 > ## Owari no Seraph
 > - RAW:
