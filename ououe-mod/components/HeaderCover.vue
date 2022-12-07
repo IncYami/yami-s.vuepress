@@ -54,7 +54,6 @@ export default {
   width 100%
   height 100%
   background-size cover
-  -webkit-backdrop-filter blur(5px)
   background-position center
   .cover-title
     width 100%
@@ -68,6 +67,7 @@ export default {
       font-size 4rem
       color $whiteColor
       overflow-wrap break-word
+      background-color lightblue
   .cover-text
     margin-top .5rem
     font-size 1.2rem
