@@ -72,6 +72,7 @@ export default {
     margin-top .5rem
     font-size 1.2rem
     color $whiteColor
+    backdrop-filter blur(5px)
 @media (max-width $phoneWidth)
   .header-cover
     .cover-title
