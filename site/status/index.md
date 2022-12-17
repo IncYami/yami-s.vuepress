@@ -28,6 +28,3 @@ layout: Page
 > - Monogatari Series
 >
 > BD
-
-<br><hr><br>
-<Disqus/>

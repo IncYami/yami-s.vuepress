@@ -56,7 +56,7 @@ export default {
   background-size cover
   background-position center
   .cover-title
-    width 100%
+    max-width 100%
     text-align center
     backdrop-filter blur(5px)
     .title-img
@@ -69,7 +69,6 @@ export default {
       font-size 4rem
       color $whiteDarkColor //$whiteColor
       overflow-wrap break-word
-      backdrop-filter blur(5px)
   .cover-text
     margin-top .5rem
     font-size 1.2rem
