@@ -6,9 +6,9 @@
   >
     <h1 class="cover-title">
       <img-lazy
-        v-if="$themeConfig.title"
+        v-if="$themeConfig.logo"
         v-show="$isHome"
-        :src="$themeConfig.title"
+        :src="$themeConfig.logo"
         class="title-img"
       />
       <span v-if="coverTitle" class="title-text">{{ coverTitle }}</span>
@@ -66,8 +66,9 @@ export default {
       max-width 100%
       max-height: ($coverHeight / 5)
       font-size 4rem
-      color $whiteColor
+      color $whiteDarkColor //$whiteColor
       overflow-wrap break-word
+      backdrop-filter blur(5px)
   .cover-text
     margin-top .5rem
     font-size 1.2rem
