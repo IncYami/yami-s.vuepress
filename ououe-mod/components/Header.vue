@@ -5,7 +5,7 @@
         <div class="nav-link">
           <router-link
             v-if="$themeConfig.title"
-            \\:to="$localePath"
+            :to="$localePath"
             class="inblock link-list"
           >
             <img-lazy :src="$themeConfig.title" class="link-list" alt="logo" />
