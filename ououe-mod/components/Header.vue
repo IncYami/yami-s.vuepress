@@ -5,10 +5,10 @@
         <div class="nav-link">
           <router-link
             v-if="$themeConfig.title"
-            :to="$localePath"
-            class="inblock link-logo"
+            \\:to="$localePath"
+            class="inblock link-list"
           >
-            <img-lazy :src="$themeConfig.title" class="list-item" alt="logo" />
+            <img-lazy :src="$themeConfig.title" class="link-list" alt="logo" />
           </router-link>
           <nav class="link-list">
             <nav-link
