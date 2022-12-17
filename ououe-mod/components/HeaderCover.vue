@@ -58,6 +58,7 @@ export default {
   .cover-title
     width 100%
     text-align center
+    backdrop-filter blur(5px)
     .title-img
       max-width 100%
       max-height ($coverHeight / 5)
