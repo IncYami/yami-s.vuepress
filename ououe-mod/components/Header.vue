@@ -8,7 +8,7 @@
             :to="$localePath"
             class="inblock link-logo"
           >
-            <img-lazy :src="$themeConfig.title" class="logo-img" alt="logo" />
+            <img-lazy :src="$themeConfig.title" class="list-item" alt="logo" />
           </router-link>
           <nav class="link-list">
             <nav-link
