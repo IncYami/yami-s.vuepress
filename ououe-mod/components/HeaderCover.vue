@@ -6,9 +6,9 @@
   >
     <h1 class="cover-title">
       <img-lazy
-        v-if="$themeConfig.title" //"$themeConfig.logo"
+        v-if="$themeConfig.title"
         v-show="$isHome"
-        :src="$themeConfig.title" //"$themeConfig.logo"
+        :src="$themeConfig.title"
         class="title-img"
       />
       <span v-if="coverTitle" class="title-text">{{ coverTitle }}</span>
