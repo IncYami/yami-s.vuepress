@@ -58,7 +58,7 @@ module.exports = {
     // permalink for posts
     ['blog-multidir', {
       postsDir: {
-        posts: 'posts'
+        posts: 'posts/'
       //posts: 'posts/:year/:month/:day/:slug'
       }
     }],
