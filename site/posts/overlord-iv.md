@@ -1,7 +1,7 @@
 ---
 title: Overlord IV
 display: home
-image: img/0001.png
+image: img/Overlord.png
 date: 2022-12-24
 tags:
   - Overlord
