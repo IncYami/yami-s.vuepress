@@ -41,7 +41,7 @@ module.exports = {
       { text: 'F.A.Q.', link: '/faq/' },
     //{ text: 'Tags', link: '/tag/' },
     //{ text: 'Categories', link: '/category/' },
-      { text: 'Sobre', link: '/about/' },
+    //{ text: 'Sobre', link: '/about/' },
       { text: 'Discord', link: 'https://discord.gg/vsJwPayvz3' }
     ],
     footer: [
@@ -58,7 +58,7 @@ module.exports = {
     // permalink for posts
     ['blog-multidir', {
       postsDir: {
-        posts: 'posts/:slug'
+        posts: 'p/:slug'
       //posts: 'posts/:year/:month/:day/:slug'
       }
     }],
