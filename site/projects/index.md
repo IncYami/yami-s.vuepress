@@ -75,6 +75,12 @@ layout: Page
 > - Codec:
 > BDRIP AVC 10Bits 1080p FLAC
 
+> ## Magia Record Mahou Shoujo Madoka☆Magica Gaiden
+> - RAW:
+> YameteTomete
+> - Codec:
+> BDRIP AVC 10Bits 1080p FLAC
+
 > ## Mahou Shoujo Site
 > - Equipe:
 > Em parceiria com [Moshi Moshi Subs](https://moshimoshisubs.org/)
