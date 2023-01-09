@@ -36,9 +36,9 @@ layout: Page
 > Sekkon
 > - Codec:
 > BDRIP AVC 10Bits 1080p FLAC
-> ## Date A Live II
-> ## Date A Live III
-> ## Date A Live IV
+> ## DATE A LIVE II
+> ## DATE A LIVE III
+> ## DATE A LIVE IV
 > - RAW: 
 > Sekkon
 > - Codec: 
