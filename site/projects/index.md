@@ -5,6 +5,17 @@ layout: Page
 
 # [YamiCloud](https://cloud.yami-s.com/0:/)
 
+***
+## Monogatari Series
+
+> ## Bakemonogatari
+> - RAW:
+> Beatrice-raws
+> - Codec:
+> BDRIP AVC 10Bits 1080p FLAC
+
+***
+
 > ## Black Bullet
 > ## Black Bullet Tenchuu Girls
 > - RAW:
@@ -22,16 +33,16 @@ layout: Page
 
 > ## DATE A LIVE (Director's Cut Edition)
 > - RAW:
-> Yami Studio
+> Sekkon
 > - Codec:
 > BDRIP AVC 10Bits 1080p FLAC
 > ## Date A Live II
 > ## Date A Live III
 > ## Date A Live IV
 > - RAW: 
-> Yami Studio
+> Sekkon
 > - Codec: 
-> WEBRIP AVC 10Bits AAC
+> BDRIP AVC 10Bits TrueHD
 
 > ## Eromanga Sensei OVA
 > - RAW:
