@@ -21,10 +21,14 @@ layout: Page
 >
 > BD
 
-> - Trinity Seven
+> - Monogatari Series
 >
 > BD
 
-> - Monogatari Series
+> - DATE A LIVE II
+>
+> BD
+
+> - DATE A LIVE III
 >
 > BD
