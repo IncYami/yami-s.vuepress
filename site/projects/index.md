@@ -3,7 +3,6 @@ title: Projetos
 layout: Page
 ---
 
-# [Anitsu](https://kumo.anitsu.moe/nextcloud/s/nLTADkCq8Zrwmeb)
 # [YamiCloud](https://cloud.yami-s.com/0:/)
 
 ***
@@ -18,6 +17,12 @@ layout: Page
 > ## Nisemonogatari
 > - RAW:
 > Kawaiika-raws
+> - Codec:
+> BDRIP HEVC 10Bits 1080p FLAC
+
+> ## Nekomonogatari (Kuro)
+> - RAW:
+> smol
 > - Codec:
 > BDRIP HEVC 10Bits 1080p FLAC
 
@@ -165,6 +170,12 @@ layout: Page
 > BDMV BR
 > - Codec:
 > BDREMUX AVC 8Bits 1080p DTS-HD 5.1 - AC3 5.1
+
+> ## Sentouin, Hakenshimasu!
+> - RAW:
+> Gujin-Raws
+> - Codec:
+> BDRIP HEVC 10Bits 1080p FLAC
 
 > ## Shelter
 > - RAW:
