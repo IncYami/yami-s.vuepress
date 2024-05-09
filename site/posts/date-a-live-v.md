@@ -1,7 +1,7 @@
 ---
 title: Date A Live V
 display: home
-image: https://i.imgur.com/X5Apmqq.jpeg
+image: https://i.imgur.com/NqIZJdh.jpeg
 date: 2024-04-10
 tags:
   - Date A Live V, Date A Live
