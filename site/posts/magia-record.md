@@ -11,7 +11,7 @@ categories:
 
 Continuando a série de Magia Record.
 
-Remux é a melhor qualidade que tem, será adicionada encode do ReinForce para quem não quer baixar 6GB por episódio.
+Remux é a melhor qualidade que tem, será adicionada encode do VCB-Studio para quem não quer baixar 6GB por episódio.
 
 A primeira temporada vai ser atualizada com o Remux e algumas modificações na legenda.
 
