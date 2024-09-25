@@ -1,5 +1,5 @@
 ---
-title: Date A Live V
+title: Date A Live V - Blu-ray
 display: home
 image: https://i.redd.it/tv6ne62rr1sa1.jpg
 date: 2024-09-25
