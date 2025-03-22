@@ -15,7 +15,7 @@ Qualquer problema na legenda não deixe de avisar, pode ser que tenha passado al
 
 Estou refazendo algumas coisas por aqui e em breve será migrado para um site em Index com visualização melhor dos projetos, por hora somente alguns animes estão listados, mas será atualizado aos poucos assim como alguns projetos antigos receberão atualização na legenda.
 
-## **[Yami Studio Index](https://index.yami-s.com/#anime-code-geass-lelouch-of-the-rebellion-r1)**
+## **[Yami Studio Index](https://index.yami-s.com/#anilist-1575)**
 ## **[Download Torrent (Nyaa) - 01](https://nyaa.si/view/1950706)**
 ## **[Download Torrent (Nyaa) - 02](https://nyaa.si/view/1951079)**
 
