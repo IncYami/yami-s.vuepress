@@ -18,6 +18,7 @@ Estou refazendo algumas coisas por aqui e em breve será migrado para um site em
 ## **[Yami Studio Index](https://index.yami-s.com/#anilist-1575)**
 ## **[Download Torrent (Nyaa) - 01](https://nyaa.si/view/1950706)**
 ## **[Download Torrent (Nyaa) - 02](https://nyaa.si/view/1951079)**
+## **[Download Torrent (Nyaa) - 03](https://nyaa.si/view/1951957)**
 
 <br><hr><br>
 <Disqus/>
