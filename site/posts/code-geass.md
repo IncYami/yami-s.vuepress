@@ -19,6 +19,8 @@ Estou refazendo algumas coisas por aqui e em breve será migrado para um site em
 ## **[Download Torrent (Nyaa) - 01](https://nyaa.si/view/1950706)**
 ## **[Download Torrent (Nyaa) - 02](https://nyaa.si/view/1951079)**
 ## **[Download Torrent (Nyaa) - 03](https://nyaa.si/view/1951957)**
+## **[Download Torrent (Nyaa) - 04](https://nyaa.si/view/1953367)**
+## **[Download Torrent (Nyaa) - 05](https://nyaa.si/view/1953369)**
 
 <br><hr><br>
 <Disqus/>
